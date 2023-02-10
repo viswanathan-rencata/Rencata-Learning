@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concurrency", "concurrency.csproj", "{EFFC3D6A-58AC-4F54-9BF5-6C3AF9BB5913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFC3D6A-58AC-4F54-9BF5-6C3AF9BB5913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFC3D6A-58AC-4F54-9BF5-6C3AF9BB5913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFC3D6A-58AC-4F54-9BF5-6C3AF9BB5913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFC3D6A-58AC-4F54-9BF5-6C3AF9BB5913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D7E388-D25F-4C3F-AB19-C8F44AB8E48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D7E388-D25F-4C3F-AB19-C8F44AB8E48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D7E388-D25F-4C3F-AB19-C8F44AB8E48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D7E388-D25F-4C3F-AB19-C8F44AB8E48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF4C9A29-4299-4C0B-89D5-8E0D8B0CCAD4}
+	EndGlobalSection
+EndGlobal
